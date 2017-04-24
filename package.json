@@ -1,0 +1,28 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "simple server to test html forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sormgabriel/simple-server.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "express",
+    "html"
+  ],
+  "author": "gsor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sormgabriel/simple-server/issues"
+  },
+  "homepage": "https://github.com/sormgabriel/simple-server#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
